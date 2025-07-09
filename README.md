@@ -1,5 +1,5 @@
 # Saveetha_Admission_clone
-## Date:
+## Date: 9/7/2025
 
 ## Objective:
 To design a landing page clone of Saveetha Engineering College’s Admission Enquiry form using HTML and CSS. This activity reinforces skills in layout design, form creation, user input handling, responsive structure, and visual styling based on a real-world example.
